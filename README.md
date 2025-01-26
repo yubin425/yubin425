@@ -1,4 +1,6 @@
-## Hi there 👋
+## 특별한 경험을 주는 개발자, 임유빈입니다 👋
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yubin425)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **yubin425/yubin425** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
