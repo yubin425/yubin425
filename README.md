@@ -14,7 +14,7 @@
 ## Skills
 
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
-   <img src="https://img.shields.io/badge/amazonwebservices-232F3E?style=style=for-the-badge&logo=amazonwebservices&logoColor=white">
+   <img src="https://img.shields.io/badge/amazonwebservices-232F3E?style=style=for-the-badge&logo=AWS&logoColor=white">
    <img src="https://img.shields.io/badge/docker-2496ED?style=style=for-the-badge&logo=docker&logoColor=white">
    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
   <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=iOS&logoColor=white">
