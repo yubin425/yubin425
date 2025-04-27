@@ -5,10 +5,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yubin425)](https://github.com/anuraghazra/github-readme-stats)
 
 
-👫 앱 개발 프로젝트와 게임 개발 프로젝트를 경험하며 Notion과 GitHub등의 툴을 활용하고, 워터폴 방식과 에자일 방식을 경험해 보며 팀 협업 프로세스를 체계적으로 구축한 경험이 있습니다. 
-
-👂 사용자 경험과 사용성에 귀 기울이며 애플리케이션 기획 및 UI/UX 설계에도 기여하고 있습니다.
-
 ⏰ 꼼꼼한 계획과 일정 관리, 다양한 분야에 대한 몰입 및 학습 의욕이 저의 장점입니다. 이를 통해 좀 더 효율적인 협업 환경을 만들어 나가고 싶습니다.
 
 ## Skills
