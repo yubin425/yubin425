@@ -1,7 +1,5 @@
 ## 끝과 끝을 책임지는 개발자, 임유빈입니다 👋
 
-[↗️ 포트폴리오 보러 가기](https://www.notion.so/17b864ef2865800b8213d86cda241721?pvs=46&qid=)
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yubin425)](https://github.com/anuraghazra/github-readme-stats)
 
 
